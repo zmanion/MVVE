@@ -9,3 +9,7 @@ To do this we:
 * Enumerate and define information elements
 * Define stakeholders as producers and consumers of information elements
 * Generate a set of common use cases based on the producers, consumers, and lifecycle of information elements
+
+The following documents exist:
+
+* [information_elements.md](information elements)
