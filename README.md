@@ -13,3 +13,5 @@ To do this we:
 The following documents exist:
 
 * [Information Elements](information_elements.md)
+* [Vulnerability Phases/Lifecycle](phases.md)
+* [Stakeholders](Stakeholders)
