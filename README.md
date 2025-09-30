@@ -3,8 +3,10 @@
 ## Summary
 
 Our goal is to develop a framework to support and guide any discussion, definition and evaluation of vulnerability information elements to improve the information driving vulnerability management.
+
 To do this we:
 
+* State observations and first principles
 * Define phases of vulnerability management
 * Enumerate and define information elements
 * Define stakeholders as producers and consumers of information elements
@@ -12,6 +14,7 @@ To do this we:
 
 The following documents exist:
 
+* Vulnerability Management is Risk Management
 * [Information Elements](information_elements.md)
-* [Vulnerability Phases/Lifecycle](phases.md)
-* [Stakeholders](Stakeholders)
+* [Vulnerability Management Phases](phases.md)
+* [Stakeholders](stakeholders.md)
