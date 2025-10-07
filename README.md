@@ -2,9 +2,7 @@
 
 ## Summary
 
-Vulnerability Management is, among other things risk management, but with vulnerabilities.
-
-We want to improve and scale vulnerability managment to reduce risk.
+Vulnerability Management is, among other things, risk management. We want to improve and scale vulnerability managment to reduce risk.
 
 Our goal is to develop a framework to support and guide any discussion, definition and evaluation of vulnerability information elements to improve the information driving vulnerability management. In summary, an information element should support one or more vulnerability management phases and activities activity, or else why bother with it.
 
