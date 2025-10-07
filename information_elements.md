@@ -5,6 +5,23 @@
 
 ## Elements
 
+Information elements, not necessarily data elements (fields, colummns).  information elements can be conveyed explicitly, implicitly, by inference, by default assumeption.
+
+non-explicitness of any element must be defined
+
+If presence of information is an assertion, non-presence of that information must be defined/clarified.  Non-presence means nothing unless defined.
+
+For a CVE example, the presence of the [unsupported-when-assigned](https://www.cve.org/ResourcesSupport/Glossary#glossaryTags) tag means that
+
+> At the time of CVE ID assignment, all known Products affected by the CVE ID no longer receive security Fixes. Typically, the Products are no longer supported and are considered to be End of Life (EOL).
+
+The lack of the tag means essentially nothing, which may be confusing, the consumer cannot safely interpret this to mean that affected products are EOL or not.
+
+A consumer could interpret lack of this tag to mean either that the affected products are supported or that the EOL status of the affected products is unknown.  In this case, the EOL status information is not being successfully conveyed.
+
+
+
+
 ### Vulnerability Identifier
 
 Required by MVVE.
@@ -32,4 +49,14 @@ We are neutral on which ID scheme in that we don’t have a favorite or preferen
 
 ### Status
 
-To exist at all, a vulnerability must affect at least one product, this is status.
+Required by MVVE.
+
+status must be resolvable for every listed product
+
+To exist at all, a vulnerability must affect at least one product, this is status.  May be inferred?  A dangerous assumption, be explicit?
+
+vulnerability status product
+
+
+
+###
