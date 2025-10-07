@@ -1,3 +1,5 @@
+<img width="992" height="375" alt="image" src="https://github.com/user-attachments/assets/16dcfd45-ebfb-43c1-bb95-5de465a3ab4a" />
+
 ## Phase 0: Introduction of Vulnerability
 Vulnerability is introduced into a product during development, either through direct coding, third-party dependency or indirect dependencies and remains latent through deployment.
 
